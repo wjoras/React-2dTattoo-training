@@ -1,0 +1,17 @@
+.container-Tattoo {
+    max-width: 100%;
+    margin: 20px 70px;
+    
+}
+.container-itens {
+    padding: 0;
+}
+
+img {
+    padding: 0;
+    width: 400px;
+    height: 400px;
+}
+span {
+    pad: 0;
+}
